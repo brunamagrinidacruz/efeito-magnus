@@ -115,7 +115,7 @@ void criar_chute() {
 	}
 
 	if(!fezGol) {
-		printf("\nVocê errou o chute! O Brasil perdeu de 3 x 0 para Tchecoslováquia.\n");
+		printf("\nVocê errou o chute! O Brasil perdeu de 3 x 0 para França.\n");
 	}
 
 	fclose(fp);
