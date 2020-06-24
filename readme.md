@@ -4,7 +4,7 @@
 gcc chute.c -o chute -lm
 ./chute
 ```
-#### Usar alguma das entradas:
+#### Alguns exemplos de entradas:
 
 ##### Acerta o chute
 Velocidade: 36.1m/s Theta: 45º Phi: 30º 
@@ -37,10 +37,10 @@ splot 'chute.dat' using 1:2:3 with lines lc "red", 'baliza1.dat' with lines lc "
 
 `reset`: Limpa as configurações atuais
 
-`set <EIXO>range[<INFERIOR>:<SUPERIOR>]`: Coloca um limite em <EIXO> de <INFERIOR> até <SUPERIOR>
+`set <EIXO>range[<INFERIOR>:<SUPERIOR>]`: Coloca um limite em `<EIXO>` de `<INFERIOR>` até `<SUPERIOR>`
 
-`set <EIXO>label '<TEXTO>'`: Coloca um label com o texto <TEXTO> no <EIXO> para descrever o eixo
+`set <EIXO>label '<TEXTO>'`: Coloca um label com o texto `<TEXTO>` no `<EIXO>` para descrever o eixo
 
 ...
 
-`lc <COR>`: Atribui <COR> (nome da cor, hexadecimal ou rgb)
+`lc <COR>`: Atribui `<COR>` coloração (nome da cor, hexadecimal ou rgb)
