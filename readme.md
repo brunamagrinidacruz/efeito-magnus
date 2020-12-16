@@ -1,3 +1,8 @@
+# Efeito Magnus
+
+Código para a matéria de Física Básica I do curso de Ciências de Computação da USP São Carlos. 
+
+O objetivo do código é dado uma velocidade, thetha e phi de chute, verificar se através do Efeito Magnus o jogador conseguiu acertar o gol. Além disso, plotar o chute.
 
 #### Para executar o código
 ```
