@@ -4,6 +4,8 @@ Código para a matéria de Física Básica I do curso de Ciências de Computaç�
 
 O objetivo do código é dado uma velocidade, thetha e phi de chute, verificar se através do Efeito Magnus o jogador conseguiu acertar o gol. Além disso, plotar o chute.
 
+Observação: A acurâcia dos resultados e aplicação da fórmula do Efeito Magnus não é 100%.
+
 #### Para executar o código
 ```
 gcc chute.c -o chute -lm
